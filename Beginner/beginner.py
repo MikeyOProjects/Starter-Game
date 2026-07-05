@@ -10,3 +10,5 @@ Minor_potion = 20
 Potion = 50
 Max_Potion = 100
 
+print("welcome to the game!")
+print("this is on beginner mode so it shouldn't be too hard.")
